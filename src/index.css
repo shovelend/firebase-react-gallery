@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #ffab40;
+}
+
+.image-gallery-slide {
+  background-color: #ffcc80;
+}
+
+.image-gallery-image > img {
+  margin: auto;
+  display: block;
+  height: 100%;
+  width: 75%;
+}
+
+#randomButton {
+  position: relative;
+  left: 50%;
+}
